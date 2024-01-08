@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, Former Magician and all around curious human.
+
+- 🔭 I’m currently working on:
+  - An app to save podcast metadata (and soon, media too): https://github.com/amassaad/podcast_vault
+  - Using the OpenAI API to summarize text automatically: repo TODO
+  - A project to print GitHub Issues to paper using a receipt printer. This is to avoid switching tabs when coding.
+- 🌱 I’m currently learning:
+  - GPT and the OpenAI API: repo TODO
+  - Refreshing my JS and React knowledge: https://www.theodinproject.com/
+  - The Shopify API with a private app build
+  - The ECSPOS library to print on thermal receipt printers
+
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--
