@@ -3,8 +3,8 @@
 My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, Former Magician and all around curious human.
 
 - 🔭 I’m currently working on:
-  - An app to save podcast metadata (and soon, media too): https://github.com/amassaad/podcast_vault
-  - Using the OpenAI API to summarize text automatically: repo TODO
+  - An [app to save podcasts](https://github.com/amassaad/podcast_vault) and their metadata (and soon, media too): 
+  - Using [Ruby and the OpenAI API](https://github.com/amassaad/honey-ai-shrunk-the-kids) to summarize text automatically: 
   - A project to print GitHub Issues to paper using a receipt printer. This is to avoid switching tabs when coding.
 - 🌱 I’m currently learning:
   - GPT and the OpenAI API: repo TODO
