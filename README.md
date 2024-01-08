@@ -13,7 +13,7 @@ My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, 
   - The ECSPOS library to print on thermal receipt printers
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
 **amassaad/amassaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
