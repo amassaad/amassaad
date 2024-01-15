@@ -7,9 +7,9 @@ My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, 
   - Using [Ruby and the OpenAI API](https://github.com/amassaad/honey-ai-shrunk-the-kids) to summarize text automatically: 
   - A project to print GitHub Issues to paper using a receipt printer. This is to avoid switching tabs when coding.
 - 🌱 I’m currently learning:
-  - GPT and the OpenAI API: repo TODO
+  - [Chat GPT and the OpenAI API](https://github.com/amassaad/honey-ai-shrunk-the-kids)
   - Refreshing my JS and React knowledge: https://www.theodinproject.com/
-  - The Shopify API with a private app build
+  - The Shopify API, by building a private app
   - The ECSPOS library to print on thermal receipt printers
 
 
