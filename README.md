@@ -16,8 +16,6 @@ My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, 
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-![](https://massaad-homebot.s3.us-east-2.amazonaws.com/timelapse/data/_videos/last-hour.gif)
-
 <!--
 **amassaad/amassaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
