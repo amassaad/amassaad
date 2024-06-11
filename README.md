@@ -9,7 +9,7 @@ My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, 
   - The Shopify API, by building a private app
   - The ECSPOS library to print on thermal receipt printers
 - 💬 Ask me about:
-  - buildnig things!
+  - building things!
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
