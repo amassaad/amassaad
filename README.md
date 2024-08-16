@@ -10,7 +10,7 @@ My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, 
   - The ECSPOS library to print on thermal receipt printers
 - 💬 Ask me about:
   - building things!
-
+<!--
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--
