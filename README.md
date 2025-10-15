@@ -3,10 +3,10 @@
 My name is [Alex Massaad](https://www.massaad.ca/) and I'm a Software Engineer, Former Magician and all around curious human.
 
 - 🔭 I’m currently working on:
-  - [Freelance app building](https://victoriagarland.ca/services/shopify-app-development/)
+  - [Freelance Shopify app building](https://victoriagarland.ca/services/shopify-app-development/)
   - Shopify design and coding services
 - 🌱 I’m currently learning:
-  - The Shopify API, by building a private app
+  - The Shopify API, by building private apps
   - The ECSPOS library to print on thermal receipt printers
 - 💬 Ask me about:
   - building things!
