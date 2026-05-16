@@ -18,7 +18,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use a PAT so the action can see language bytes from private repos.
+          # Without this, private-repo languages collapse into "Other".
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
