@@ -14,7 +14,7 @@
   **Find me**
   - 🌐 [victoriagarland.ca](https://victoriagarland.ca)
   - ✍️  [Blog](https://victoriagarland.ca/blog/) — Shopify apps, Plus migrations, agency notes
-  - 💼 [LinkedIn](https://www.linkedin.com/in/alexmassaad/)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/alexthegreat/)
   - 📨 alex [at] victoriagarland.ca
 
   If you're a Shopify merchant looking at a Scripts → Functions migration, a custom app, or a Plus build, [get in touch](https://victoriagarland.ca/contact/).
