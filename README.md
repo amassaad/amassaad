@@ -1,6 +1,6 @@
  ### Hey, I'm Alex 👋
 
-  Co-founder & CTO at [Victoria Garland Creative Inc.](https://victoriagarland.ca/about/alex-massaad/), a Shopify-focused agency I run with my wife in Ontario, Canada.
+  Co-founder & CTO at [Victoria Garland Creative Inc.](https://victoriagarland.ca/authors/alex-massaad/), a Shopify-focused agency I run with my wife in Ontario, Canada.
 
   **What I work on**
   - Custom Shopify apps built on [Gadget.dev](https://gadget.dev) — currently shipping JourneyGlow, PriceGlow, StockGlow, and CrowdShop.
