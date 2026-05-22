@@ -1,30 +1,20 @@
-### Hi there 👋
+ ### Hey, I'm Alex 👋
 
-I'm [Alex Massaad](https://www.massaad.ca/) — software engineer, former magician, all-around curious human.
+  Co-founder & CTO at [Victoria Garland Creative Inc.](https://victoriagarland.ca/about/alex-massaad/), a Shopify-focused agency I run with my wife in Ontario, Canada.
 
-#### 🔭 What I'm working on right now
+  **What I work on**
+  - Custom Shopify apps built on [Gadget.dev](https://gadget.dev) — currently shipping JourneyGlow, PriceGlow, StockGlow, and CrowdShop.
+  - Shopify Plus migrations, Scripts → Functions cutovers, and storefront work for merchants who've outgrown themes.
+  - Agency tooling, internal infra, and the occasional open-source experiment.
 
-- **[Freelance Shopify app + theme work](https://victoriagarland.ca/services/shopify-app-development/)** through Victoria Garland Inc — custom apps, theme builds, and integrations for merchants.
-- An AI-generated art project with a small Shopify print shop attached (more on that later).
-- A long-running video series I'll talk about when it ships.
-- A pile of small private tools: a maintenance tracker, a podcast-archive vault, a thermal-receipt-printer playground (ESC/POS), a personal blog engine, experiments with Cloudflare Workers and local Ollama models.
+  **Background**
+  - 10+ years at Shopify, building merchant-facing infrastructure used across millions of stores.
+  - Left to run an agency, which turns out to be a very different job. Wrote about it [here](https://victoriagarland.ca/blog/).
 
-#### 🌱 Learning
+  **Find me**
+  - 🌐 [victoriagarland.ca](https://victoriagarland.ca)
+  - ✍️  [Blog](https://victoriagarland.ca/blog/) — Shopify apps, Plus migrations, agency notes
+  - 💼 [LinkedIn](https://www.linkedin.com/in/alexmassaad/)
+  - 📨 alex [at] victoriagarland.ca
 
-- Production AI video pipelines (WhisperX, CLIP-based scene relevance, two-pass loudnorm, the works).
-- The Shopify Functions / Hydrogen / customer-account-extensions surface area.
-- Local-first LLM tooling — Ollama-backed agents, small models for routing.
-
-#### 💬 Ask me about
-
-- Building real things with messy AI tooling.
-- Shopify themes and apps without losing your mind.
-- Why magicians make decent engineers.
-
----
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<!--
-**amassaad/amassaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+  If you're a Shopify merchant looking at a Scripts → Functions migration, a custom app, or a Plus build, [get in touch](https://victoriagarland.ca/contact/).
