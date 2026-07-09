@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    # Typical run is ~15s; this only guards against a hung step, not a stuck queue.
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
