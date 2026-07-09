@@ -18,7 +18,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v7
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           # Use a PAT so the action can see language bytes from private repos.
           # Without this, private-repo languages collapse into "Other".
