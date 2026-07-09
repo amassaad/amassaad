@@ -18,3 +18,7 @@
   - 📨 alex [at] victoriagarland.ca
 
   If you're a Shopify merchant looking at a Scripts → Functions migration, a custom app, or a Plus build, [get in touch](https://victoriagarland.ca/contact/).
+
+  ---
+
+  ![Alex's GitHub contribution graph rendered as a 3D isometric city](./profile-3d-contrib/profile-gitblock.svg)
