@@ -1,0 +1,49 @@
+name: Contribution skyline
+
+on:
+  schedule:
+    # Once a day is plenty: the graphic is bucketed by month and block heights
+    # are quantized, so most days produce no change and no commit.
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/contrib-skyline.mjs
+      - .github/workflows/contrib-skyline.yml
+
+concurrency:
+  group: contrib-skyline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-contribution-skyline
+    # Typical run is a few seconds; this only guards against a hung step.
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v7
+      - name: Generate SVGs
+        run: node scripts/contrib-skyline.mjs
+        env:
+          # A PAT, because the default token cannot see contributions to private
+          # repos. It is scoped to this step only; the push below uses the
+          # workflow's own token. The script asks for the contribution calendar
+          # and nothing else, and fails rather than publish an empty graph.
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/contrib-skyline-light.svg assets/contrib-skyline-dark.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate contribution skyline"
+            git push
+          fi

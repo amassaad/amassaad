@@ -21,4 +21,7 @@
 
   ---
 
-  ![Alex's GitHub contribution graph rendered as a 3D isometric city](./profile-3d-contrib/profile-gitblock.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contrib-skyline-dark.svg">
+    <img alt="Alex's GitHub contributions by month over the last 12 years, drawn as an isometric skyline with one row of blocks per year" src="./assets/contrib-skyline-light.svg" width="100%">
+  </picture>
